@@ -79,6 +79,11 @@ body {
 a{
   text-decoration: none !important;
 }
+
+.justify{
+  text-align: justify;
+}
+
 .myspan {
   font-weight: 900;
   line-height: 0.7;
